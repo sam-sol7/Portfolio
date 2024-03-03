@@ -1,0 +1,16 @@
+.hero-container {
+    margin-top: 110px;
+    padding: 100px 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #272341;
+}
+
+#text-color-main {
+    background-image: linear-gradient(135deg,#02aab0,#00cdac);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
